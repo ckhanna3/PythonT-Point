@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Many Technologies like AWS, AI ML, Devops, Linux, Cloud Computting,wtc
 - 💞️ I’m looking to collaborate on Technical blogs and video.
 - 📫 How to reach me ?
-Contact: Pythontpoint23@gmail.com
-
-
+- 👀 Pythontpoint23@gmail.com
+- 📫 www.pythontpoint.in     
