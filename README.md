@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PythonT-Point
 - 👀 I’m interested in writting Techinal Blogs
-- 🌱 I’m currently learning Many Technologies like AWS, AI ML, Devops, Linux, Cloud Computting,wtc
+- 🌱 I’m currently learning Many Technologies like AWS, AI ML, Devops, Linux, Cloud Computting,etc.
 - 💞️ I’m looking to collaborate on Technical blogs and video.
 - 📫 How to reach me ?
 - 👀 Pythontpoint23@gmail.com
